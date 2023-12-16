@@ -62,7 +62,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/restart/20221005_006.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/beijing/19870619_004.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -95,13 +95,13 @@ a.p:hover span {
 </head>
 
 
-<body onload="alert('長い間、お疲れ様でした！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
+<body onload="alert('北京２泊３日旅行！')" onunload="alert('若かった時の記録〜(^o^)/')">
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
 	
-<h1><span class="yellow"><marquee behavior="left">!!! 2022年10月5日_滝澤さん、松ちゃん、退職記念@目利きの銀次 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 1987年6月19日~21日_北京2泊3日旅行の記録 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a href="19870619_001.JPG" data-lightbox="abc"><img src="19870619_001.JPG" alt="サンプル画像" width="900" /></a>
@@ -186,5 +186,5 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
-	<span class="white">Copyright 2019/07/08 S.Hada</span>
+	<span class="white">Copyright 2023/12/16 S.Hada</span>
  </footer>
