@@ -104,7 +104,7 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">!!! 1987年6月19日~21日_北京2泊3日旅行の記録 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p>2023年12月8日、いつもの湯西川温泉お泊まり会に岡が持ち込んだ紙のアルバム、<br>保存状態が良好でその場で野口さんがスマホでキャプチャー。<br>そのままLINE共有されましたので、そのデータでHP化しました。</p>
+<p>2023年12月8日、いつもの湯西川温泉お泊まり会に岡が持ち込んだ紙のアルバム、<br>保存状態が良好でその場で野口さんがスマホでキャプチャー。<br>そのままLINE共有されましたので、そのデータでHPを立ち上げました。</p>
 <a href="19870619_001.JPG" data-lightbox="abc"><img src="19870619_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19870619_002.JPG" data-lightbox="abc"><img src="19870619_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19870619_003.JPG" data-lightbox="abc"><img src="19870619_003.JPG" alt="サンプル画像" width="900" /></a>
